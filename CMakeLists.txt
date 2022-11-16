@@ -1,6 +1,6 @@
-cmake_minimum_required(VERSION 3.21)
-project(untitled40)
+cmake_minimum_required(VERSION 3.23)
+project(untitled9)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(untitled40 main.cpp BankAppliction.cpp BankAppliction.h)
+add_executable(untitled9 main.cpp BankApplication.h BankApplication.cpp)
