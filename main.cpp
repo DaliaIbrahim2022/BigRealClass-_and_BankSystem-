@@ -1,9 +1,10 @@
 #include <iostream>
-#include"BankApplication.h"
+#include "Bankapplication.h"
+
+
 int main() {
-//BankApplication b1;
-//if(b1.menue()==1)
-//    b1.CreatAccount();
-//else
-//    b1.ListAccounts();
+//    std::cout << "Hello, World!" << std::endl;
+//    return 0;
+BankApplication a;
+
 }
